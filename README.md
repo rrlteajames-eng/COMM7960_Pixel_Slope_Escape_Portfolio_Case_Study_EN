@@ -75,8 +75,8 @@ This repository presents the final V3.3 build. Earlier course-development script
 
 ## Credits
 
-- **Huang Rui:** lead development, game design, integration, and iteration
-- **Xiang Qi:** visual art collaboration
+- **James:** lead development, game design, integration, and iteration
+- **XQ:** visual art collaboration
 - Built as a COMM7960 group project
 
 No open-source license is currently granted for the code or artwork. Please contact the project author before reuse or redistribution.
